@@ -1,0 +1,8 @@
+streamlit
+moviepy
+yt-dlp
+whisper-timestamped
+
+# Note: moviepy and ffprobe (used by audio_duration.py) often require the ffmpeg executable.
+# You may need to install ffmpeg separately on your system if you encounter errors.
+# For Windows, you can download it from https://ffmpeg.org/download.html
