@@ -6,4 +6,4 @@ numpy
 yt-dlp
 streamlit
 whisper-timestamped==1.15.8
-openai-whisper==20231120
+openai-whisper==20231117
